@@ -6,7 +6,8 @@
         "phpmailer/phpmailer": "^6.9",
         "hassankhan/config": "^3.1",
         "illuminate/database": "^5.4",
-        "ircmaxell/random-lib": "^1.2"
+        "ircmaxell/random-lib": "^1.2",
+        "slim/psr7": "^1.6"
     },
     "config": {
         "allow-plugins": {
